@@ -49,7 +49,6 @@ We selected the **Solar System** as our STEM topic because:
 ## 👤 Credits
 
 **Assets**
-- Planet 3D models: Free resources from [poly.pizza](https://poly.pizza) and [Sketchfab](https://sketchfab.com) (public domain/CC0)
 - Sprites & planet images: NASA public domain images
 - UI: Unity default UI system
 
